@@ -1,2 +1,2 @@
 # JPMC
-![alt tag](http://url/to/JPMC_Certificate.PNG) 
+![alt text](relative/path/to/JPMC_Certificate.jpg?raw=true "Title")
