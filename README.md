@@ -1,2 +1,2 @@
 # JPMC
-![picture](JPMC_Certificate.png?raw=true)
+![alt text](https://raw.githubusercontent.com/ycdjun/JPMC/blob/master/JPMC_Certificate.PNG)
