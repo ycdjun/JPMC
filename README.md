@@ -1,2 +1,2 @@
 # JPMC
-![alt tag](http://url/to/JPMC_Certificate.png) 
+![alt tag](http://url/to/JPMC_Certificate.PNG) 
