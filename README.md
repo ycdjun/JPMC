@@ -1,2 +1,2 @@
 # JPMC
-![picture](JPMC_Certificate.png)
+![picture](JPMC_Certificate.png?raw=true)
