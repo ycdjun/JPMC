@@ -1,2 +1,2 @@
 # JPMC
-![alt text](https://github.com/ycdjun/JPMC/blob/master/JPMC Certificate.PNG?raw=true)
+![alt tag](http://url/to/JPMC Certificate.png) 
